@@ -87,7 +87,7 @@ Core logic. It manages dates, stores data in localStorage, handles user events (
 
 ---
 
-## Self-Assessment
+## Self-Assessment	
 
 A. Core Functionality 10/10	
 B. Code Quality & Architecture 5/5	
@@ -115,7 +115,7 @@ As a next step to improve the app, I could look into displaying longer history v
 
 Demo video is attached in the Canvas return box.
 
-**Timestamps**
+**Timestamps**	
 00:00 – Intro  
 00:22 - Project overview  
 01:38 – Demo: Adding habits  
