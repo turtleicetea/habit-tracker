@@ -90,12 +90,12 @@ Core logic. It manages dates, stores data in localStorage, handles user events (
 ## Self-Assessment
 
 A. Core Functionality 10/10	
-B. Code Quality & Architecture 5/5
-C. UX & Accessibility 5/5
-D. Data Handling & Persistence 4/4
-E. Documentation 2/3
-F. Deployment 3/3
-G. Demo Video & Documentation 5/5
+B. Code Quality & Architecture 5/5	
+C. UX & Accessibility 5/5	
+D. Data Handling & Persistence 4/4	
+E. Documentation 2/3	
+F. Deployment 3/3	
+G. Demo Video & Documentation 5/5	
 
 ---
 
@@ -116,8 +116,8 @@ As a next step to improve the app, I could look into displaying longer history v
 Demo video is attached in the Canvas return box.
 
 **Timestamps**
-00:00 – Intro
-00:22 - Project overview
+00:00 – Intro  
+00:22 - Project overview  
 01:38 – Demo: Adding habits  
 01:57 – Demo: Toggling days + streaks  
 02:37 – Demo: Export / import / reset  
