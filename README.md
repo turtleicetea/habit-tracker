@@ -6,7 +6,7 @@ A single page app that lets you add habits, tick today, shows the last seven day
 
 ## Key Features
 
-- Add habits, tick today 
+- Add habits, select days
 - View the last 7 days
 - Live streak count
 - All data stored in browser using 'localStorage'
