@@ -44,6 +44,7 @@ You can run the app directly by opening 'index.html'.
 ## **macOS Installation**
 1. Open Terminal.
 2. Clone the repository:
+   ```bash
    git clone https://github.com/turtleicetea/habit-tracker.git
 3. Navigate into the project folder:
    cd habit-tracker
@@ -94,7 +95,7 @@ C. UX & Accessibility 5/5
 D. Data Handling & Persistence 4/4
 E. Documentation 2/3
 F. Deployment 3/3
-G. Demo Video & Documentation 0/5
+G. Demo Video & Documentation 5/5
 
 ---
 
@@ -107,3 +108,18 @@ I encountered some issues with repositories and merging local anda remote data, 
 This was also the first time I deployed a project using GitHub Pages.
 
 As a next step to improve the app, I could look into displaying longer history views.
+
+---
+
+## Demo Video
+
+Demo video is attached in the Canvas return box.
+
+**Timestamps**
+00:00 – Intro
+00:22 - Project overview
+01:38 – Demo: Adding habits  
+01:57 – Demo: Toggling days + streaks  
+02:37 – Demo: Export / import / reset  
+03:03 – Conclusion
+
